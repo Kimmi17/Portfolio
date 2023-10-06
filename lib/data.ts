@@ -63,7 +63,7 @@ export const projectsData = [
   {
     title: "Spotify-clone App",
     description:
-      "I developed a dynamic and responsive user interface that closely mirrors Spotify's design. The project seamlessly integrates Supabase for database management and authentication, and Stripe for handling premium subscriptions. Key features include song uploads, robust authentication, Stripe payment integration, favorites, playlists, and advanced player components.",
+      "I developed a dynamic and responsive user interface that closely mirrors Spotify's design. The project seamlessly integrates Supabase for database management and authentication, and Stripe for handling premium subscriptions. Key features include song uploads, robust authentication.",
     tags: [
       "NextJS 13",
       "React",
@@ -71,7 +71,6 @@ export const projectsData = [
       "Supabase",
       "PostgreSQL",
       "Tailwind",
-      "Zustand",
     ],
     imageUrl: spotifycloneappImg,
   },
@@ -83,8 +82,6 @@ export const projectsData = [
       "Typescript",
       "NextJS 13 App Router",
       "React Hooks",
-      "Styled components",
-      "Local Storage",
       "Custom Fonts",
       "Tailwind",
       "Prisma",
@@ -95,7 +92,7 @@ export const projectsData = [
   {
     title: "Lama Blog",
     description:
-      "The application offers multiple pages tailored to meet bloggers' unique needs. To provide a personalized user experience, I implemented a login and registration system based on JSON web token authentication. A standout feature of the application is the rich text editor that enables bloggers to create, update, and delete their posts with ease",
+      "The application offers multiple pages tailored to meet bloggers' unique needs. I implemented a login and registration system based on JSON web token authentication. A standout feature of the application is the rich text editor that enables bloggers to create, update, and delete their posts with ease",
     tags: [
       "ES6",
       "ReactJS",
