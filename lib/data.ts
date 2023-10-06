@@ -47,11 +47,11 @@ export const experiencesData = [
     description:
       "Writing property descriptions, taking or obtaining photos, and uploading listings to the company's website and various real estate platforms. Posting property listings, sharing relevant content, engaging with followers, and running targeted advertising campaigns.Assist in creating and sending email marketing campaigns to clients and leads, including newsletters, property updates, and promotional offers.",
     icon: React.createElement(CgWorkAlt),
-    date: "2020",
+    date: "2021",
   },
   {
     title: "Self-taught Developer",
-    location: "Home",
+    location: "Espoo, FL",
     description:
       "A self-taught developer with over two years of experience learning to code in my free time. For the past fourteen months, I've been fully immersed in creating web applications using modern technologies",
     icon: React.createElement(FaReact),
