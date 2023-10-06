@@ -30,12 +30,14 @@ export default function About() {
           React, NextJS, Material UI, ShadCN, Tailwind, Redux, Jest, testing
           library …
         </span>
-        .For the back-end side, I can work well with ExpressJS, Prisma, Spring
-        boot, hibernate combine with SQL or NoSQL database - for example: MySQL,
-        PostgreSQL, MongoDB. I am always looking to learn new technologies. I am
-        currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        .For the back-end side, I can work well with{" "}
+        <span className="font-medium">
+          ExpressJS, Prisma, Spring boot, hibernate combine with SQL or NoSQL
+          database - for example: MySQL, PostgreSQL, MongoDB.
+        </span>{" "}
+        I am always looking to learn new technologies. I am currently looking
+        for a <span className="font-medium">full-time position</span> as a
+        software developer.
       </p>
     </motion.section>
   );
